@@ -1,0 +1,21 @@
+div{
+
+}
+.container {
+    border: 1px solid gray;
+    border-radius: 25px;
+    background: white;
+    padding: 20px; 
+}
+
+.bg-dark {
+	background-color: darkblue;
+
+}
+
+footer{
+    background-color:  gray;
+    padding: 15px;
+	color: #fff;
+    border-radius: 25px;	
+}
